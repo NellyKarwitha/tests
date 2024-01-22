@@ -1,0 +1,47 @@
+body{
+    background-color: mediumpurple;
+}
+
+.one{
+    font-family: cursive;
+    font-weight: bolder;
+    color: deeppink;
+    text-align: center;
+    font-size: x-large;
+}
+
+.two {
+    font-family: "URW Gothic L";
+    text-align: center;
+}
+
+.four, .five{
+    border-radius:  30px;
+}
+
+a{
+    color:magenta;
+    text-decoration: none;
+}
+
+
+#one{
+    background-color: skyblue;
+}
+
+
+#two{
+    background-color: #e837a1;
+}
+
+#three{
+    background-color: plum;
+}
+
+a:hover{
+    background-color: lightpink;
+    border-bottom: mediumpurple   ;
+    border-radius: 15px;
+    text-decoration: none;
+}
+
